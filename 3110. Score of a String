@@ -5,7 +5,7 @@ Calculate and Update: In each iteration of the loop, calculate the absolute diff
 Return the Score: After the loop, return the accumulated score.
 
 C++ Code
- ```bash 
+
 class Solution {
 public:
     int scoreOfString(string s) {
@@ -16,4 +16,4 @@ public:
         return score;
     }
 };
- ``` 
+
